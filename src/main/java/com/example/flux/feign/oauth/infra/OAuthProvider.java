@@ -1,4 +1,4 @@
-package com.example.flux.feign.social.infra;
+package com.example.flux.feign.oauth.infra;
 
 public enum OAuthProvider {
     KAKAO, NAVER, TWITTER

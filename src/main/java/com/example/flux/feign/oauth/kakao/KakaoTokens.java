@@ -1,4 +1,4 @@
-package com.example.flux.feign.social.kakao;
+package com.example.flux.feign.oauth.kakao;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

@@ -1,8 +1,7 @@
-package com.example.flux.feign.social.kakao;
+package com.example.flux.feign.oauth.kakao;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 

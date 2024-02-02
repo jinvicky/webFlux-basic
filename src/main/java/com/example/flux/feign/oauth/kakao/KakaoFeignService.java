@@ -1,4 +1,4 @@
-package com.example.flux.feign.social.kakao;
+package com.example.flux.feign.oauth.kakao;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

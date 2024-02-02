@@ -1,4 +1,4 @@
-package com.example.flux.feign.social.infra;
+package com.example.flux.feign.oauth.infra;
 
 public interface OAuthInfoResponse {
     String getEmail();
